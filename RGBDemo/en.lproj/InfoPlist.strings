@@ -1,0 +1,3 @@
+// 英文 App 名称
+CFBundleDisplayName = "RGB Demo";
+CFBundleName = "RGB Demo";

@@ -1,0 +1,3 @@
+// 中文 App 名称
+CFBundleDisplayName = "RGB颜色演示";
+CFBundleName = "RGB颜色演示";
